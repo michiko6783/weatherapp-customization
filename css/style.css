@@ -1,1 +1,18 @@
 /* Custom CSS goes here */
+body {
+  background-image: url(http://4.bp.blogspot.com/-0Syq7c-jrWs/UUH819_qfhI/AAAAAAAABzs/D1UIP_x1P2Q/s1600/sunny-day-wallpaper.jpg);
+  background: cover, no-repeat;
+}
+
+.container {
+  margin-top: 220px;
+  margin-left: 25px;
+}
+
+h2 {
+  padding-left: 50px;
+}
+
+.temperature-container, .humidity-container, .description-container{
+  padding-left: 50px;
+}
